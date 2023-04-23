@@ -1,2 +1,3 @@
 # PicX figure bed
- PicX figure bed
+This is PicX figure bed
+
